@@ -32,8 +32,6 @@ Our analysis reveals several factors that significantly impact how long patients
 - **Department matters** - patients in specialty units like neurology have different patterns than those in general medicine
 - **Weekend admissions** result in longer stays across all departments, presenting a clear opportunity for process improvement
 
-(https://github.com/user-attachments/assets/b4a6cf05-7669-4991-92cb-03bc4cd1f17e)
-
 The model effectively categorizes patients into risk groups, showing a clear difference of about 5 days between the highest and lowest risk patients. This allows hospitals to:
 
 - Identify high-risk patients at admission
